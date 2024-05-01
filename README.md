@@ -1,5 +1,5 @@
 # Links
-  https://geshan.com.np/blog/2021/12/docker-postgres/![image](https://github.com/santos-pardos/docker-nodejs-postgresql/assets/66181446/1c566d8c-5619-4dca-91f4-89073f11d1d1)
+  https://geshan.com.np/blog/2021/12/docker-postgres/
 
 # nodejs-posgresql
 
